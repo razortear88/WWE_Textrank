@@ -1,0 +1,1 @@
+Indonesian Wikipedia is used as the corpus for training word embedding model. you can download it at https://dumps.wikimedia.org/idwiki/. Make sure to download the pages-articles-multistream.xml.bz2 file. Next, you can run the make_model.ipynb notebook and create the word embedding model you want.
