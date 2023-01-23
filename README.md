@@ -1,7 +1,5 @@
 # Weighted Word Embedding Textrank
 
-## Papers:
-
 ## About This Repository
 This paper discusses the use of word weights with TF-IDF and word embedding in the textrank algorithm.
 The word embedding model used is:
